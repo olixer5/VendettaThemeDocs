@@ -1,0 +1,35 @@
+body {
+		background-color: ghostwhite
+}
+.h1f {
+		text-align: center;
+		color: lightsteelblue;
+		background-color: lightyellow;
+}
+.button1 {
+		background-color: lightcyan;
+		border: 0px;
+		block-size: 15px 15px;
+}
+.button2 {
+		background-color: lightcyan;
+		border: 0px;
+		block-size: 15px 15px;
+}
+p {
+		color: crimson;
+		font-size: 20px;
+		font-weight: 1000;
+		
+}
+
+h6 {
+		color: salmon;
+		font-size: 15px;
+		font-weight: 700;
+		
+}
+.art1 {
+		background-color: blue;
+		background-blend-mode: blue, green;
+}

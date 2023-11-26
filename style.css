@@ -1,0 +1,87 @@
+
+body {
+		background-color: gainsboro;
+		
+}
+.header1 {
+  color: violet;
+  font-size: 25px;
+		text-align: center;
+		background-color: dimgrey;
+		padding: 15px;
+		margin: 50px;
+		
+}
+
+#hr1 {
+		height: 15px;
+		width: 100px;
+		background-color: greenyellow;
+		
+}
+.h1fr {
+		background-color: lightgrey;
+		text-align: center;
+		padding: 30px;
+		margin: 40px;
+}
+.semAn {
+		color: lightcyan;
+		font-size: 20px;
+		
+}
+.RaaW {
+		color: lightcyan;
+		font-size: 20px;
+		bottom: 
+}
+.ha5 {
+		color: violet;
+		float: center;
+		font-weight: 800;
+}
+.ha4 {
+		color: darkviolet;
+		float: center;
+		font-weight: 900;
+		position: relative;
+		left: 10px;
+}
+.555oli {
+    padding: 5px;
+    border-radius: var(--roundness);
+    background-color: var(--color-main-background);
+    width: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+img {
+		border-radius: 50%;
+		margin-right: 15px;
+		width: 50px;
+		position: relative;
+		top: 10px;
+		left: 20px;
+		animation-duration: infinite
+}
+i {
+		background-color: darkslategrey;
+		padding: 25px;
+		border-radius: 25%;
+		color: seashell;
+}
+#dc {
+		position: relative;
+		left: 15px;
+}
+#gh {
+		position: relative;
+		right: 15px;
+}
+a {
+		color: silver;
+		block-size: 5px;
+		
+}

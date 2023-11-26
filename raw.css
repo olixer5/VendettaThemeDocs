@@ -1,0 +1,22 @@
+.h1r {
+		color: lightslategrey;
+		background-color: seashell;
+		text-align: center;
+		
+}
+body {
+		background-color: ghostwhite
+}
+.button1 {
+		background-color: lightcyan;
+		border: 0px;
+		block-size: 15px 15px;
+}
+.button2 {
+		background-color: lightcyan;
+		border: 0px;
+		block-size: 15px 15px;
+}
+p {
+		color: cadetblue;
+}
